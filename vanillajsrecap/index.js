@@ -7,6 +7,7 @@
 //Defining arrays in javascript:
 //1. Literal method: - most preferred method
 let arrayOfItems = [];
-
+console.log(arrayOfItems);
 // 2. Array prototype using new constructor:
 let newArray = new Array();
+console.log(newArray);
