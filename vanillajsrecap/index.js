@@ -18,3 +18,7 @@
 let namesArray = ['Florence', 'Paullaster', 'Atieno'];
 console.log(namesArray.length);
 
+// 2. Index: arrays are indexed.
+// Indexing in arrays is zero-based: the first index is always zero
+// The highest index is always the length - 1;
+
