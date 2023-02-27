@@ -21,4 +21,5 @@ console.log(namesArray.length);
 // 2. Index: arrays are indexed.
 // Indexing in arrays is zero-based: the first index is always zero
 // The index of the last item in array is equal to the length of array - 1;
-
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+// Check on: 1.slice, 2.splice, 3. join and concat:
