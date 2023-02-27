@@ -8,4 +8,5 @@
 //1. Literal method: - most preferred method
 let arrayOfItems = [];
 
-//  
+// 2. Array prototype using new constructor:
+let newArray = new Array();
