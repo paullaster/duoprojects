@@ -7,3 +7,5 @@
 //Defining arrays in javascript:
 //1. Literal method: - most preferred method
 let arrayOfItems = [];
+
+//  
