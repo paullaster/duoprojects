@@ -16,5 +16,5 @@
 // Properties:
 // 1. length: Number of items   in array
 let namesArray = ['Florence', 'Paullaster', 'Atieno'];
-
+console.log(namesArray.length);
 
