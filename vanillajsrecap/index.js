@@ -5,4 +5,5 @@
  * Can be of same type  or different type.
  */
 //Defining arrays in javascript:
-//1. Literal method:
+//1. Literal method: - most preferred method
+let arrayOfItems = [];
