@@ -13,4 +13,8 @@
 // console.log(newArray.length);
 
 // Properties of arrays and array methods:
+// Properties:
+// 1. length: Number of items   in array
+let namesArray = ['Florence', 'Paullaster', 'Atieno'];
+
 
