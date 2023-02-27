@@ -9,5 +9,5 @@
 let arrayOfItems = [];
 console.log(arrayOfItems);
 // 2. Array prototype using new constructor:
-let newArray = new Array();
-console.log(newArray);
+let newArray = new Array(10,2,9);
+console.log(newArray.length);
